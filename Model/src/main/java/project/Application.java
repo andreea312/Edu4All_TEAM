@@ -1,4 +1,4 @@
-package org.example.model;
+package project;
 
 public class Application extends Entity<Integer>{
     private Program program;

@@ -1,4 +1,4 @@
-package org.example.model;
+package project;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
@@ -21,7 +21,6 @@ public class Program extends Entity<Integer>{
     public String getName() {
         return name;
     }
-    Application
     public void setName(String name) {
         this.name = name;
     }
